@@ -26,9 +26,7 @@ I am a python developer.
 ### Socials
 <p align="left">                         
 <a href="https://discord.com/users/miroslav.zeljkovic#4894" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-
-<a href="https://www.github.com/Wiola09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
+<a href="https://www.github.com/Wiola09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                        
 <a href="http://www.instagram.com/miroslav.zeljkovic83/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
 <a href="https://www.linkedin.com/in/miroslav-zeljkovic-31b5a75b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
