@@ -25,8 +25,7 @@ I am a python developer.
                     
                   ### Socials
                   
-                  
-                <p align="left">
+<p align="left">
                           
                       <a href="https://discord.com/users/miroslav.zeljkovic#4894" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
