@@ -11,7 +11,7 @@ I am a python developer.
 *   🚀  I'm currently working on [EMS AD, Beograd](http://www.ems.rs/)
 *   🧠  I'm learning SQL and Docker
 *   🤝  I'm open to collaborating on interesting projects
-### Skills 
+## Skills 
 
 <p align="left">
 
