@@ -26,7 +26,7 @@ I am a python developer.
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" width="36" height="36"></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" width="36" height="36" alt="Selenium" /></a>
+   
 
    ##### Backend and database
    
@@ -38,6 +38,14 @@ I am a python developer.
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
+
+##### Python tools
+
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" width="36" height="36" alt="Selenium" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/images/logo2.svg" width="36" height="36" alt="Matplotlib" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/tensorflow/images/lockup.svg" width="36" height="36" alt="Matplotlib" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="36" height="36" alt="Matplotlib" /></a>
+
 
 ## Socials
 <p align="left">                         
