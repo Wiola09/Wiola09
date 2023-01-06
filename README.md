@@ -26,7 +26,7 @@ I am a python developer.
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" width="36" height="36"></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://icon-library.com/icon/selenium-icon-1.html" width="36" height="36" alt="Selenium" /></a>
+   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://icon-library.com/icon/selenium-icon-1.html.html" width="36" height="36" alt="Selenium" /></a>
 
    ##### Backend and database
    
