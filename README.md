@@ -46,7 +46,7 @@ I am a python developer.
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" width="100" height="36" alt="Numpy" /></a>
 <a href="https://seaborn.pydata.org/index.html" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="36" alt="Seaborn" /></a>
 <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100" height="36" alt="scikit-learn" /></a>
-<a href=https://keras.io/" target="_blank" rel="noreferrer"><img src="https://keras.io/img/logo.png" width="100" height="36" alt="Keras" /></a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://keras.io/img/logo.png" width="100" height="36" alt="Keras" /></a>
 
 
 ## Socials
