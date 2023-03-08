@@ -7,7 +7,7 @@ Python Developer
 I am a python developer.
 
 *   🌍  I'm based in Belgrade, Serbia
-*   🖥️  See my portfolio at [My Portfolio](http://blog-6u4k.onrender.com/)
+*   🖥️  See my portfolio at [My Portfolio](https://wiola09.github.io/Miroslav_Zeljkovic_sajt/)
 *   🚀  I'm currently working on [EMS AD, Beograd](http://www.ems.rs/)
 *   🧠  I'm learning SQL and Docker
 *   🤝  I'm open to collaborating on interesting projects
