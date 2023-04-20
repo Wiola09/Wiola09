@@ -16,10 +16,16 @@ I am a python developer.
 <p align="left">
 
    ##### Core
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+
    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+   
+  #### OTHER
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png" width="80" height="50" alt="AWS" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="36" height="36" alt="DOCKER" /></a>
   
 ##### Frontend
 
@@ -50,10 +56,7 @@ I am a python developer.
 <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100" height="36" alt="scikit-learn" /></a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://keras.io/img/logo.png" width="100" height="36" alt="Keras" /></a>
 
-#### OTHER
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png" width="80" height="50" alt="AWS" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="36" height="36" alt="DOCKER" /></a>
+
 
 
 
