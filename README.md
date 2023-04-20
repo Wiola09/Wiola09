@@ -52,7 +52,7 @@ I am a python developer.
 
 #### OTHER
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="content="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png"" width="36" height="36" alt="AWS" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="content="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png" width="36" height="36" alt="AWS" /></a>
 </p>
 
 ## Socials
