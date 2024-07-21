@@ -49,7 +49,8 @@ I am a python developer.
 #### Python tools
 
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" width="36" height="36" alt="Selenium" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="60" height="80" alt="Tensorflow" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="Tensorflow" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/docs/_static/pandas.svg" width="100" height="36" alt="Pandas" /></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" width="100" height="36" alt="Numpy" /></a>
 <a href="https://seaborn.pydata.org/index.html" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="36" alt="Seaborn" /></a>
