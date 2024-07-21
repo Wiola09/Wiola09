@@ -70,6 +70,19 @@ I am a python developer.
 <a href="https://www.stackoverflow.com/users/19237685/miroslav-zeljkovi%c4%87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/Miroslav_114" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
 
+
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Wiola09&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Wiola09&style=for-the-badge&color=orange" alt=""/>
-</div>              
+</div> 
+
+---
