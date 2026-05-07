@@ -57,16 +57,18 @@ I am a python developer.
 
 #### Python tools
 
-<p align="left">
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" width="36" height="36" alt="Selenium" /></a><!--
---><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a><!--
---><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" /></a><!--
---><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/docs/_static/pandas.svg" width="100" height="36" alt="Pandas" /></a><!--
---><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" width="36" height="36" alt="NumPy" /></a><!--
---><a href="https://seaborn.pydata.org/index.html" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="36" alt="Seaborn" /></a><!--
---><a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100" height="36" alt="scikit-learn" /></a><!--
---><a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://keras.io/img/logo.png" width="100" height="36" alt="Keras" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" width="36" height="36" alt="Selenium" /></a></td>
+    <td><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a></td>
+    <td><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" /></a></td>
+    <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/docs/_static/pandas.svg" height="36" alt="Pandas" /></a></td>
+    <td><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" width="36" height="36" alt="NumPy" /></a></td>
+    <td><a href="https://seaborn.pydata.org/index.html" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="36" alt="Seaborn" /></a></td>
+    <td><a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="36" alt="scikit-learn" /></a></td>
+    <td><a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://keras.io/img/logo.png" height="36" alt="Keras" /></a></td>
+  </tr>
+</table>
 
 ## Socials
 <p align="left">
